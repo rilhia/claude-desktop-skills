@@ -57,7 +57,7 @@ You can try a smaller model or a lower setting to save usage, but check the resu
  
 ## Two ways to set it up
  
-**Option A: let Claude guide you.** Open [Installation-Prompt.md](Installation-Prompt.md), copy the prompt into a new task in Claude Desktop and answer Claude's questions. Claude downloads the files, fills in your settings, makes the zip file and tells you how to install and schedule it.
+**Option A: let Claude guide you.** Open [Installation-Prompt.md](Installation-Prompt.md), copy the prompt into a new task in Claude Desktop and answer Claude's questions. Claude downloads the files, fills in your settings, makes the zip file and tells you how to install and schedule it. This is experimental. Please let me know if you experience any issues.
  
 **Option B: do it yourself.** Follow the steps below. It takes about 15 minutes.
  
