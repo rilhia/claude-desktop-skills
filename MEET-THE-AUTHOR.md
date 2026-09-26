@@ -182,6 +182,5 @@ Start now with your hello and first question.
 
 ## Prefer the direct route?
 
-- Email: richard@rilhia.com
 - LinkedIn: https://www.linkedin.com/in/rilhia/
 - Website: https://rilhia.com
